@@ -1,4 +1,3 @@
-export const themes = {
 transparent: {
     title_color: "006AFF",
     icon_color: "0579C3",
