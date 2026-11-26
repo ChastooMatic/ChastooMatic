@@ -1,7 +1,5 @@
 <div align="center">
   <img width="1600" height="978" alt="Kiryuu Kikyou full 4169184" src="https://github.com/user-attachments/assets/c5492ca5-71f8-4bab-b06a-4cca1b471f2e" />
-  <img src="https://placehold.co/1000x260/0D1117/38BDF8?text=Your+Sky-Blue+Anime+Banner+GIF+Here&font=montserrat" alt="Anime Banner" width="100%" />
-</div>
 
 <br/>
 
